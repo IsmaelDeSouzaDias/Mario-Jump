@@ -38,6 +38,13 @@
     animation: cano-animacao 1s infinite linear;
 }
 
+.perdeu {
+    position: absolute;
+    font-size: 60px;
+    left: 40%;
+    top: 45%;
+}
+
 @keyframes nuvens-animacao {
     from {
         right: -400px;
